@@ -28,8 +28,8 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ### My Discord 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/778778741886418965
-                            )](https://discord.com/users/778778741886418965)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1097955540291817605
+                            )](https://discord.com/users/1097955540291817605)
 
 ---
 
