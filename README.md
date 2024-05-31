@@ -4,7 +4,7 @@
 
 -   :man: Pronouns: he/him.
 
--   :pencil: VS Code / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
+-   :pencil: VS Code / HTML / Python / JavaScript/
 
 ---
 
@@ -13,8 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python 5 hours         ███████████████░░░░░░░░░░   67.24 % 
-JSON   3 hours         ██████▒░░░░░░░░░░░░░░░░░░   23.45 % 
+Python 5 hours         ███████████████░░░░░░░░░░   89.49 % 
 HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░░░░░░░   10.51 % 
 ```
 <!--END_SECTION:waka-->
@@ -50,9 +49,9 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
 </a>
 <a href="https://twitter.com/alekisok">
-  <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
   </a>
 <a href="https://replit.com/@aleksgroupfinder">
-  <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/replit.svg" />
+  <img align="left" alt="Replit" width="20px" src="https://simpleicons.org/icons/replit.svg" />
 <a href="https://instagram.com/alekisok">
   <img align="left" alt = "Instagram" width="20px" src="https://simpleicons.org/icons/instagram.svg" />
