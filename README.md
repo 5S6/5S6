@@ -46,7 +46,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
 </a>
 <a href="https://twitter.com/alekisok">
-  <img align="left" alt="Twitter" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
+  <img align="left" alt="x" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
   </a>
 <a href="https://replit.com/@aleksgroupfinder">
   <img align="left" alt="Replit" width="20px" src="https://simpleicons.org/icons/replit.svg" />
