@@ -32,8 +32,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ---
 
-### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zcuqlk2f95e0fhxozipv7i0gh&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zcuqlk2f95e0fhxozipv7i0gh&redirect=true)
+
 ---
 ### My Socials
 <a href="https://discord.com/users/778778741886418965">
