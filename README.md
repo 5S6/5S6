@@ -19,11 +19,6 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-### Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/alektherblxdev/count.svg)
-
----
 
 ### My Discord 
 
