@@ -28,7 +28,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ---
 ### My Socials
-<a href="https://discord.com/users/778778741886418965">
+<a href="https://discord.com/users/1097955540291817605">
   <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
 <a href="https://www.youtube.com/@alekisok">
