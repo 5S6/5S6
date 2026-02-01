@@ -25,6 +25,10 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1097955540291817605
                             )](https://discord.com/users/1097955540291817605)
 
+### Now Playing
+
+[![Spotify](https://novatorem-q9za.vercel.app/api/orchestrator)](https://open.spotify.com/user/zcuqlk2f95e0fhxozipv7i0gh)
+
 
 ---
 ### My Socials
