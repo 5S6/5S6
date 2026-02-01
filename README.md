@@ -27,7 +27,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ### Now Playing
 
-[![Spotify](https://novatorem-q9za.vercel.app/api/orchestrator)](https://open.spotify.com/user/zcuqlk2f95e0fhxozipv7i0gh)
+[![Spotify](https://novatorem-q9za.vercel.app/api/orchestrator?background_type=blur_dark)](https://open.spotify.com/user/zcuqlk2f95e0fhxozipv7i0gh)
 
 
 ---
